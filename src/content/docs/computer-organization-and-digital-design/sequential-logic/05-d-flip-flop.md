@@ -18,7 +18,7 @@ gate should be removed.
 
 ## Characteristics
 
-### Characteristic tabl
+### Characteristic table
 
 | D   | Clk | Comment   |
 | --- | --- | --------- |
