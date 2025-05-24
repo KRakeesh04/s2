@@ -51,7 +51,7 @@ exist.
 
 ## Iterated limits
 
-Aka. repeated limits. **If** $f$ is defined in a neighborhood of a point $(a,b)$
+Aka. repeated limits. **If** $f$ is defined in a neighbourhood of a point $(a,b)$
 in $\mathbb{R}^2$ and $\lim_\limits{x\to a} f(x,y)$ exists, which is a function
 of $y$ only, **then** the limit of this function as $y\to b$ can be written as:
 
@@ -65,9 +65,9 @@ of $y$ only, **then** the limit of this function as $y\to b$ can be written as:
 Similarily, another limit exists.
 
 ```math
-\lim_\limits{y\to{b}}
-\;
 \lim_\limits{x\to{a}}
+\;
+\lim_\limits{y\to{b}}
  {f(x,y)}
 ```
 
